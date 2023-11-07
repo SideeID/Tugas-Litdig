@@ -8,6 +8,7 @@ body {
 .row {
   display: flex;
   flex-direction: row;
+  /* flex-flow: row nowrap; */
   justify-content: center;
   /* background: #101820; */
 }
