@@ -1,2 +1,2 @@
 # Tugas-Litdig
-tugas membuat landingpage
+Tugas minggu 11, membuat landing page
